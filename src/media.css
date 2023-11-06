@@ -1,0 +1,19 @@
+@media only screen and (min-width:330px) and (max-width:567px){
+	.createbutton{
+		width: 100%!important;
+	}
+	  
+	.registerbtn{
+		width: 100%!important;
+	}
+	.name{
+		width:100%!important;
+	}
+
+	.caccount{
+		width:100%;
+	}
+	.loginbtn{
+	  width: 100%;
+	}
+}
